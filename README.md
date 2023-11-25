@@ -1,7 +1,3 @@
-To create a comprehensive and engaging README for your GitHub repository based on the analysis of the cleaned Adidas sales dataset, you can structure it as follows. Please note that the content should be tailored to reflect the specifics of your project, and you might need to fill in some details:
-
----
-
 # Adidas Sales Analysis
 
 ## Project Overview
