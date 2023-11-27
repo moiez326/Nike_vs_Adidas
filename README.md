@@ -4,14 +4,7 @@
 
 This project involves a detailed analysis of a dataset representing sales data for Adidas in the United States. The aim is to uncover insights into sales patterns, profitability, and customer preferences.
 
-### Data Source: [Kash on kaggle](https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike) . It contains transactional sales data for various Adidas products across different regions in the US.
-
-### Tools & Technologies
-
-- Python
-- Libraries: Pandas, NumPy, Seaborn, Plotly
-- Jupyter Notebook
-
+### Data Source: [Kash on kaggle](https://www.kaggle.com/datasets/kaushiksuresh147/adidas-vs-nike). It contains transactional sales data for various Adidas products across different regions in the US.
 ## Key Insights
 
 - **Product Performance**: Analysis of different product categories revealed trends in sales volume and profitability.
