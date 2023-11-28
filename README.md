@@ -1,5 +1,5 @@
 # Adidas Sales Analysis
-![shoes](https://tyroneeagleeyenews.com/wp-content/uploads/2021/10/nike-versus-adidas-the-hundreds-article2--900x540.jpeg)
+![shoes](https://www.vestilanatura.it/wp-content/uploads/2022/06/nike-vs-adidas-competizione-e-rivalita.jpg)
 ## Project Overview
 
 This project involves a detailed analysis of a dataset representing sales data for Adidas in the United States. The aim is to uncover insights into sales patterns, profitability, and customer preferences.
