@@ -1,3 +1,4 @@
+![shoes](https://github.com/moiez326/Nike_vs_Adidas/blob/main/media/nike%20vs%20adidas.jpeg)
 # Adidas Sales Analysis
 
 ## Project Overview
