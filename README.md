@@ -1,5 +1,5 @@
 # Adidas Sales Analysis
-
+![shoes](https://tyroneeagleeyenews.com/wp-content/uploads/2021/10/nike-versus-adidas-the-hundreds-article2--900x540.jpeg)
 ## Project Overview
 
 This project involves a detailed analysis of a dataset representing sales data for Adidas in the United States. The aim is to uncover insights into sales patterns, profitability, and customer preferences.
@@ -18,9 +18,9 @@ This project involves a detailed analysis of a dataset representing sales data f
 
 1. **Data Cleaning and Preparation**: Standardized data formats, handled missing values, and transformed variables for analysis.
 2. **Exploratory Data Analysis**: Comparison key numerical metrics
-  [chart 1](https://github.com/moiez326/Nike_vs_Adidas/blob/main/media/Screenshot%202023-11-28%20at%2013.20.35.png)
+  ![chart 1](https://github.com/moiez326/Nike_vs_Adidas/blob/main/media/Screenshot%202023-11-28%20at%2013.20.35.png)
 3. **Correlation between rating and price**: 
-[chart 2](https://github.com/moiez326/Nike_vs_Adidas/blob/main/media/Screenshot%202023-11-28%20at%2013.23.57.png)
+![chart 2](https://github.com/moiez326/Nike_vs_Adidas/blob/main/media/Screenshot%202023-11-28%20at%2013.23.57.png)
 ## Conclusions
 
 - Identified key product categories driving sales and profitability.
