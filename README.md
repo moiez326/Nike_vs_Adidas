@@ -13,8 +13,8 @@ This project involves a detailed analysis of a dataset representing sales data f
 - **Price Analysis**: Investigated the relationship between pricing, sales volume, and profitability.
 
 ## Repository Structure
-- [raw_shoes](https://github.com/moiez326/Nike_vs_Adidas/blob/main/data/shoes_raw_data.csv) shoes.csv: The cleaned dataset used for the analysis.
-- [cleaned_shoes](https://github.com/moiez326/Nike_vs_Adidas/blob/main/data/shoes_cleaned_data.csv)
+- [raw_shoes](https://github.com/moiez326/Nike_vs_Adidas/blob/main/data/shoes_raw_data.csv): The cleaned dataset used for the analysis.
+- [cleaned shoes](https://github.com/moiez326/Nike_vs_Adidas/blob/main/data/shoes_cleaned_data.csv)
 ## Analysis Highlights
 
 1. **Data Cleaning and Preparation**: Standardized data formats, handled missing values, and transformed variables for analysis.
