@@ -13,20 +13,15 @@ This project involves a detailed analysis of a dataset representing sales data f
 - **Price Analysis**: Investigated the relationship between pricing, sales volume, and profitability.
 
 ## Repository Structure
-- [raw_shoes](https://github.com/moiez326/Nike_vs_Adidas/blob/main/data/shoes_raw_data.csv): The cleaned dataset used for the analysis.
-- [cleaned shoes](https://github.com/moiez326/Nike_vs_Adidas/blob/main/data/shoes_cleaned_data.csv)
+- [raw_shoes](https://github.com/moiez326/Nike_vs_Adidas/blob/main/data/shoes_raw_data.csv): raw dataset.
+- [cleaned shoes](https://github.com/moiez326/Nike_vs_Adidas/blob/main/data/shoes_cleaned_data.csv): data cleaned dataset
 ## Analysis Highlights
 
 1. **Data Cleaning and Preparation**: Standardized data formats, handled missing values, and transformed variables for analysis.
-2. **Exploratory Data Analysis**: Conducted a comprehensive exploration of the dataset to understand the distribution and relationship of key variables.
-3. **Sales Performance Analysis**: Analyzed total sales across different regions and identified the best-performing products.
-4. **Profitability Analysis**: Explored operating profit and margins across product categories and regions.
-
-### Visualizations
-
-- Bar charts and heatmaps for comparing sales and profitability metrics.
-- Time series analysis for understanding seasonal trends.
-
+2. **Exploratory Data Analysis**: Comparison key numerical metrics
+  [chart 1](https://github.com/moiez326/Nike_vs_Adidas/blob/main/media/Screenshot%202023-11-28%20at%2013.20.35.png)
+3. **Correlation between rating and price**: 
+[chart 2](https://github.com/moiez326/Nike_vs_Adidas/blob/main/media/Screenshot%202023-11-28%20at%2013.23.57.png)
 ## Conclusions
 
 - Identified key product categories driving sales and profitability.
